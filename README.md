@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Rana</h1>
-<h3 align="center">A passionate Front-End developer from India</h3>
+<h3 align="center">FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh2212003&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh2212003" /> </p>
 
@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rakesh_rana2213" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh_rana2213?logo=twitter&style=for-the-badge" alt="rakesh_rana2213" /></a> </p>
 
-- 🔭 I’m currently working on **as a student**
+- 🔭 I’m currently working on **my projects**
 
 - 🌱 I’m currently learning **Everything**
-
-- 👯 I’m looking to collaborate on **an organijation**
-
-- 🤝 I’m looking for help with **new technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rakesh2212003?tab=repositories](https://github.com/rakesh2212003?tab=repositories)
 
