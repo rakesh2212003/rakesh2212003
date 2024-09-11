@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://rakesh2213.netlify.app](https://rakesh2213.netlify.app)
+- 👨‍💻 All of my projects are available at [https://rakesh2213.netlify.app](https://rakeshrana.netlify.app)
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **rakesh.rana2212003@gmail.com**
+- 📫 How to reach me **rakesh.rana2213@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Xf5x3OXEbzVY4YkFNDLRC7QSo_wMDDgyuPpZWzMOGDo](https://docs.google.com/document/d/1Xf5x3OXEbzVY4YkFNDLRC7QSo_wMDDgyuPpZWzMOGDo)
 
