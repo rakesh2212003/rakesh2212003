@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://rakesh2213.netlify.app](https://rakeshrana.netlify.app)
+- 👨‍💻 All of my projects are available at [https://rakeshrana.netlify.app](https://rakeshrana.netlify.app)
 
 - 💬 Ask me about **Anything**
 
